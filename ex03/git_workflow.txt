@@ -1,0 +1,6 @@
+edit the files 
+git add to stage the changes 
+git commit to save the changes
+git push to upload the changes
+
+

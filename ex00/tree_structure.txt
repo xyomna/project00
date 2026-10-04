@@ -1,0 +1,40 @@
+.:
+total 20
+drwxr-xr-x 5 xyomna xyomna 4096 Oct  1 11:13 .
+drwxr-x--- 7 xyomna xyomna 4096 Oct  1 11:43 ..
+drwxr-xr-x 2 xyomna xyomna 4096 Oct  1 11:13 archives
+drwxr-xr-x 3 xyomna xyomna 4096 Oct  1 11:18 projects
+drwxr-xr-x 2 xyomna xyomna 4096 Oct  1 11:13 tools
+
+./archives:
+total 8
+drwxr-xr-x 2 xyomna xyomna 4096 Oct  1 11:13 .
+drwxr-xr-x 5 xyomna xyomna 4096 Oct  1 11:13 ..
+
+./projects:
+total 12
+drwxr-xr-x 3 xyomna xyomna 4096 Oct  1 11:18 .
+drwxr-xr-x 5 xyomna xyomna 4096 Oct  1 11:13 ..
+drwxr-xr-x 4 xyomna xyomna 4096 Oct  1 11:18 web
+
+./projects/web:
+total 16
+drwxr-xr-x 4 xyomna xyomna 4096 Oct  1 11:18 .
+drwxr-xr-x 3 xyomna xyomna 4096 Oct  1 11:18 ..
+drwxr-xr-x 2 xyomna xyomna 4096 Oct  1 11:18 backend
+drwxr-xr-x 2 xyomna xyomna 4096 Oct  1 11:18 frontend
+
+./projects/web/backend:
+total 8
+drwxr-xr-x 2 xyomna xyomna 4096 Oct  1 11:18 .
+drwxr-xr-x 4 xyomna xyomna 4096 Oct  1 11:18 ..
+
+./projects/web/frontend:
+total 8
+drwxr-xr-x 2 xyomna xyomna 4096 Oct  1 11:18 .
+drwxr-xr-x 4 xyomna xyomna 4096 Oct  1 11:18 ..
+
+./tools:
+total 8
+drwxr-xr-x 2 xyomna xyomna 4096 Oct  1 11:13 .
+drwxr-xr-x 5 xyomna xyomna 4096 Oct  1 11:13 ..
